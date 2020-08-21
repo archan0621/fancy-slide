@@ -2,10 +2,10 @@
 *{margin:0;padding:0;box-sizing:border-box;list-style:none;vertical-align:center;}
 h2{color: white; margin: 10px; margin-left: 30px; font-size: 40px; }
 .menuLink{}
-.wrap{background: url('../images/main_2.png') no-repeat center/cover; position:relative;width:100%;height:100vh;overflow:hidden;}
+.wrap{background: #a6b3ff no-repeat center/cover; position:relative;width:100%;height:100vh;overflow:hidden;}
 .sl{width:50%;height:100%;position:absolute;overflow:hidden;}
-.left{top:-100%;left:0;background: url('../images/sombra.png') no-repeat center left/cover;}
-.right{bottom:-100%;right:0;background: url('../images/sombra.png') no-repeat center left/cover;}
+.left{top:-100%;left:0;background: #5a7243 no-repeat center left/cover;}
+.right{bottom:-100%;right:0;background: #ffa6a6 no-repeat center left/cover;}
 .main{height:100%;position:absolute;overflow:hidden;}
 .main1{left:-100%;width:100%;}
 .main2{right:-100%;width:100%;}
