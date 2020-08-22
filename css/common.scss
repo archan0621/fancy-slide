@@ -31,31 +31,3 @@ h2{color: white; margin: 10px; margin-left: 30px; font-size: 40px; }
 .main2 .sub2 .box2{background:#6effa6;}
 .main2 .sub2 .box3{background:#5eb40e;}
 .main2 .sub2 .box4{background:#5a7243;}
-#topMenu {            
-    height: 30px; 
-    width: 850px;
-    margin-left: 530px auto;
-    
-}
-#topMenu ul li {                       
-    list-style: none;          
-    color: white;              
-    background-color: #2d2d2d;  
-    float: left;                
-    line-height: 30px;          
-    vertical-align: middle;     
-    text-align: center;         
-}
-#topMenu .menuLink {                               
-    text-decoration:none;                      
-    color: white;                             
-    display: block;                            
-    width: 150px;                              
-    font-size: 12px;                           
-    font-weight: bold;                         
-    font-family: "Trebuchet MS", Dotum, Arial; 
-}
-#topMenu .menuLink:hover {           
-    color: mediumaquamarine;                  
-    background-color: #4d4d4d;    
-}
